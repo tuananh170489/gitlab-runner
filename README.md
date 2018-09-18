@@ -1,4 +1,4 @@
-# Configure gitlab runner
+# Configure gitlab-runner
 ### Download gitlab-runner
 ```sh
 wget --content-disposition https://packages.gitlab.com/runner/gitlab-runner/packages/el/7/gitlab-runner-11.2.0-1.x86_64.rpm/download.rpm
